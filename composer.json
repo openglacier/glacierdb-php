@@ -1,0 +1,32 @@
+{
+    "name": "glacierdb/glacierdb",
+    "description": "PHP driver for glacierdb with core-managed .ogid identities",
+    "keywords": [
+        "glacierdb",
+        "ogd",
+        "database",
+        "msgpack"
+    ],
+    "homepage": "https://forge.openglacier.org/openglacier/platform",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "OpenGlacier contributors",
+            "homepage": "https://openglacier.org"
+        }
+    ],
+    "support": {
+        "source": "https://forge.openglacier.org/openglacier/platform"
+    },
+    "require": {
+        "php": "^8.2",
+        "ext-sodium": "*",
+        "rybakit/msgpack": "^0.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "GlacierDB\\": "src/"
+        }
+    }
+}
