@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e303112265827503b0dea23a56ed3ee7",
+    "content-hash": "a36815bb5cbb0a1b14ad2b1d7afbbf81",
     "packages": [
         {
             "name": "rybakit/msgpack",

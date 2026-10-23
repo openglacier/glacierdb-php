@@ -1,5 +1,5 @@
 {
-    "name": "glacierdb/glacierdb",
+    "name": "openglacier/glacierdb",
     "description": "PHP driver for glacierdb with core-managed .ogid identities",
     "keywords": [
         "glacierdb",

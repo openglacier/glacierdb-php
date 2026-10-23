@@ -5,7 +5,7 @@ PHP 8.2+ client for glacierdb.
 ## Install
 
 ```bash
-composer require glacierdb/glacierdb
+composer require openglacier/glacierdb
 ```
 
 For a local checkout:
