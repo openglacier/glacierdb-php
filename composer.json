@@ -7,7 +7,7 @@
         "database",
         "msgpack"
     ],
-    "homepage": "https://forge.openglacier.org/openglacier/platform",
+    "homepage": "https://github.com/openglacier/glacierdb-php",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -17,7 +17,7 @@
         }
     ],
     "support": {
-        "source": "https://forge.openglacier.org/openglacier/platform"
+        "source": "https://github.com/openglacier/glacierdb-php"
     },
     "require": {
         "php": "^8.2",
